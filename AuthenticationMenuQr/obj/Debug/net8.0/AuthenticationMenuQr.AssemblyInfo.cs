@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthenticationMenuQr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cd68f1c015a4040bc0471fd3617778a9db57650")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a19f396c2a18385c1339722deffee609902d855")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthenticationMenuQr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthenticationMenuQr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
